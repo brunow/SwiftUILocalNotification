@@ -58,6 +58,7 @@
 		E78BB9742677D100003D738B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainInterface.storyboard; sourceTree = "<group>"; };
 		E78BB9762677D100003D738B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E78BB98E2677D450003D738B /* NotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationView.swift; sourceTree = "<group>"; };
+		E78BB9912677E7A2003D738B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +84,7 @@
 		E78BB93C2677CED1003D738B = {
 			isa = PBXGroup;
 			children = (
+				E78BB9912677E7A2003D738B /* README.md */,
 				E78BB9412677CED2003D738B /* Shared */,
 				E78BB94B2677CED4003D738B /* iOS */,
 				E78BB9702677D100003D738B /* iOS Notification */,
